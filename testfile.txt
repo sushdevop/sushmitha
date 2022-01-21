@@ -1,2 +1,2 @@
 Hello
-Thia is devops class
+Thia is devops class for Jenkins
